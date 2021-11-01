@@ -1,4 +1,8 @@
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+
+![tomyueTW's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyueTW&show_icons=true&hide=contribs,prs)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomyueTW&show_icons=true&locale=en&layout=compact)
+
 ---
 ### Hi there, I'm TomYue. 👋
 
