@@ -10,9 +10,8 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with other creators like front-end developer or designer.
-- 🥅 2021 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: I love to watch TV series , fitness, and outdoor activities.
+- 👯 I want to collaborate with other creators like front-end developers or designers.
+- ⚡ Fun fact: I love to watch TV series, fitness, and scuba diving.
 
 ### Connect with me:
 ---
